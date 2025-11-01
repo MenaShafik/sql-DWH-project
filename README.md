@@ -36,5 +36,5 @@ Batch processing – Full Load (Truncate & Insert) – SCD 1
 Data Architecture:
 In This Project I Used a Medallion Architecture
 As a Three Layers: Bronze – Silver – Gold
-<img width="862" height="478" alt="image" src="https://github.com/user-attachments/assets/efb31210-5dbf-4aa4-89f5-409055722006" />
+<img width="1067" height="558" alt="image" src="https://github.com/user-attachments/assets/91e8ddee-75be-488b-9e31-41dd2fbf2f4e" />
 
